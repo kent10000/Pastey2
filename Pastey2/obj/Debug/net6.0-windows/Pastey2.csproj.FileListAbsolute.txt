@@ -1,0 +1,15 @@
+C:\Users\kent\RiderProjects\Pastey2\Pastey2\bin\Debug\net6.0-windows\Pastey2.exe
+C:\Users\kent\RiderProjects\Pastey2\Pastey2\bin\Debug\net6.0-windows\Pastey2.deps.json
+C:\Users\kent\RiderProjects\Pastey2\Pastey2\bin\Debug\net6.0-windows\Pastey2.runtimeconfig.json
+C:\Users\kent\RiderProjects\Pastey2\Pastey2\bin\Debug\net6.0-windows\Pastey2.dll
+C:\Users\kent\RiderProjects\Pastey2\Pastey2\bin\Debug\net6.0-windows\Pastey2.pdb
+C:\Users\kent\RiderProjects\Pastey2\Pastey2\obj\Debug\net6.0-windows\Pastey2.csproj.AssemblyReference.cache
+C:\Users\kent\RiderProjects\Pastey2\Pastey2\obj\Debug\net6.0-windows\Pastey2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kent\RiderProjects\Pastey2\Pastey2\obj\Debug\net6.0-windows\Pastey2.AssemblyInfoInputs.cache
+C:\Users\kent\RiderProjects\Pastey2\Pastey2\obj\Debug\net6.0-windows\Pastey2.AssemblyInfo.cs
+C:\Users\kent\RiderProjects\Pastey2\Pastey2\obj\Debug\net6.0-windows\Pastey2.csproj.CoreCompileInputs.cache
+C:\Users\kent\RiderProjects\Pastey2\Pastey2\obj\Debug\net6.0-windows\Pastey2.dll
+C:\Users\kent\RiderProjects\Pastey2\Pastey2\obj\Debug\net6.0-windows\refint\Pastey2.dll
+C:\Users\kent\RiderProjects\Pastey2\Pastey2\obj\Debug\net6.0-windows\Pastey2.pdb
+C:\Users\kent\RiderProjects\Pastey2\Pastey2\obj\Debug\net6.0-windows\Pastey2.genruntimeconfig.cache
+C:\Users\kent\RiderProjects\Pastey2\Pastey2\obj\Debug\net6.0-windows\ref\Pastey2.dll
